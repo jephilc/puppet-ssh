@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # The baseline for module testing used by Puppet Inc. is that each manifest
+=======
+# The baseline for module testing used by Puppet Labs is that each manifest
+>>>>>>> 6cfdfbdcf86a1fc455e4e3320255edb4ba7cba4f
 # should have a corresponding test manifest that declares that class or defined
 # type.
 #
